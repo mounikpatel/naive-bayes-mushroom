@@ -1,2 +1,2 @@
 # naive-bayes-mushroom
-Classifying mushrooms as 'edible' or 'poisonous' using naive bayes
+classifying mushrooms as 'edible' or 'poisonous' using naive bayes classifier
